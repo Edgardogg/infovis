@@ -1,1 +1,8 @@
 Parallel Coordinates
+Protovis
+stream graph
+Graduated Symbol Maps
+Adjacency Diagrams
+sunburst layout
+Enclosure Diagrams
+Squarified treemaps
